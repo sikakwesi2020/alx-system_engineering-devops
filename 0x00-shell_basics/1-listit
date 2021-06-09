@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "ls"
+echo "0-current_working_directory\n0-current_working_directory~\n1-listit\n1-listit~\nREADME.md\nREADME.md~"
