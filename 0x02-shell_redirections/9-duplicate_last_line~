@@ -1,0 +1,2 @@
+#!/bion/bash
+tail -1 < iacta >> iacta
